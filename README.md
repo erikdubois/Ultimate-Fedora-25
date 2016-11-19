@@ -67,7 +67,7 @@ http://sourceforge.net/projects/sardi/
 For ease of installation I use the script
 
 
-	- icons-sardi-latest.sh
+	- icons-sardi-vx.sh
 
 
 
@@ -87,7 +87,7 @@ Sardi Flexible has a script. Type a colour code and 3 seconds later all your ico
 
 Colour codes can be figured out locally with gpick or online via http://www.colorpicker.com/.
 
-![Screenshots](http://i.imgur.com/T9gN544.jpg)
+![Screenshots](http://i.imgur.com/M2rmNRk.png)
 
 
 
