@@ -12,7 +12,7 @@ Changed the wallpaper.
 
 Installed screenfetch.
 
-	suddo dnf install screenfetch
+	sudo dnf install screenfetch
 
 ![Screenshots](http://i.imgur.com/myZn07i.png)
 
