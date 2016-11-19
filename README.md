@@ -1,5 +1,6 @@
 # Ultimate Fedora
 
+Installed Fedora 24.
 
 Update your system.
 
@@ -20,6 +21,15 @@ Installed screenfetch.
 #Kernel
 
 	sudo dnf update kernel
+
+Latest kernel was already installed.
+
+#Upgrading to Fedora 25 (from 24)
+
+	sudo dnf upgrade --refresh
+	sudo dnf install dnf-plugin-system-upgrade
+	sudo dnf system-upgrade download --refresh --releasever=25
+	sudo dnf system-upgrade reboot
 	
 
 #Software installation
