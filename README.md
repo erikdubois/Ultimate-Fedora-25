@@ -80,28 +80,7 @@ The most recent pictures can be found there.
 https://plus.google.com/u/0/collection/YFP-LB
 
 
-Some Examples!
-
-
-Sardi Flexible has a script. Type a colour code and 3 seconds later all your icons have changed.
-
-Colour codes can be figured out locally with gpick or online via http://www.colorpicker.com/.
-
 ![Screenshots](http://i.imgur.com/M2rmNRk.png)
-
-
-
-This is the original colour of Sardi Flexible with Minty-transparent theme.
-
-
-
-![Screenshots](http://i.imgur.com/iS6zFFU.jpg)
-
-Sardi Arc
-
-![Screenshots](http://i.imgur.com/IeZFWvs.jpg)
-
-
 
 
 
