@@ -6,8 +6,10 @@ Update your system.
 
 	sudo dnf upgrade
 
-Latest kernel is now installed
+Latest kernel is now installed.
+
 Changed the wallpaper.
+
 Installed screenfetch.
 
 	suddo dnf install screenfetch
