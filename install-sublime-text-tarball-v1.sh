@@ -28,7 +28,7 @@ Type=Application
 Name=Sublime Text
 GenericName=Text Editor
 Comment=Sophisticated text editor for code, markup and prose
-Exec=/opt/sublime_text/sublime_text %F
+Exec=/opt/sublime_text_3/sublime_text %F
 Terminal=false
 MimeType=text/plain;
 Icon=sublime-text
@@ -47,6 +47,11 @@ Exec=/opt/sublime_text/sublime_text --command new_file
 OnlyShowIn=Unity;
 EOF"
 
+sudo cp /opt/sublime_text_3/Icon/16x16/* /usr/share/icons/hicolor/16x16/apps/
+sudo cp /opt/sublime_text_3/Icon/32x32/* /usr/share/icons/hicolor/32x32/apps/
+sudo cp /opt/sublime_text_3/Icon/48x48/* /usr/share/icons/hicolor/48x48/apps/
+sudo cp /opt/sublime_text_3/Icon/128x128/* /usr/share/icons/hicolor/128x128/apps/
+sudo cp /opt/sublime_text_3/Icon/256x256/* /usr/share/icons/hicolor/256x256/apps/
 
 rm /tmp/sublime_text_3_build_3126_x64.tar.bz2
 
