@@ -48,7 +48,7 @@ sudo dnf install -y terminator vlc vnstat
 
 # installation of zippers and unzippers
 
-sudo dnf install -y zip unzip sharutils uudeview arj cabextract file-roller
+sudo dnf install -y zip p7zip unzip sharutils uudeview arj cabextract file-roller
 
 ###############################################################################################
 
