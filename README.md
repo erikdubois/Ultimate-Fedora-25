@@ -1,6 +1,6 @@
 # Ultimate Fedora
 
-Installed Fedora 25 - beta.
+Installed Fedora 25 - beta 1.1 on 20/11/2016
 
 Update your system.
 
