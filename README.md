@@ -103,7 +103,11 @@ Conky to be found at https://github.com/erikdubois/Aureola
 ![Screenshots](http://i.imgur.com/eWizUOs.png)
 
 
+# Recording
 
+Simplescreenrecorder failed me in this beta version. You can use this.
+
+Gnome3 has already a screen recording functionality. Pressing Alt+Ctrl+Shift+R recording will start. There should be a red icon on the message tray in the right-bottom corner of your screen. If the message tray is hidden, Super+M will activate it. Pressing the red icon will stop the recording. The video is saved in the Video directory on your home directory on webm format. 
 
 # F  A  Q
 --------------------
