@@ -87,9 +87,10 @@ https://plus.google.com/u/0/collection/YFP-LB
 	sudo dnf system-upgrade download --refresh --releasever=25
 	sudo dnf system-upgrade reboot
 
+
 # Software center
 
-![Screenshots](http://i.imgur.com/eWizUOs.pn)
+![Screenshots](http://i.imgur.com/eWizUOs.png)
 
 
 # F  A  Q
