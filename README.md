@@ -79,6 +79,16 @@ https://plus.google.com/u/0/collection/YFP-LB
 ![Screenshots](http://i.imgur.com/M2rmNRk.png)
 
 
+# Aureola conky
+
+
+![Screenshots](http://i.imgur.com/1qGFKhV.png)
+
+
+Conky to be found at https://github.com/erikdubois/Aureola
+
+
+
 
 #Upgrading to Fedora 25 (from 24)
 
@@ -91,6 +101,8 @@ https://plus.google.com/u/0/collection/YFP-LB
 # Software center
 
 ![Screenshots](http://i.imgur.com/eWizUOs.png)
+
+
 
 
 # F  A  Q
