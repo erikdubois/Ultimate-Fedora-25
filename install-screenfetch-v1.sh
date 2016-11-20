@@ -12,16 +12,8 @@
 ##################################################################################################################
 
 
+sudo dnf install screenfetch -y
 
-# repo for spotify
-sudo dnf config-manager --add-repo=http://negativo17.org/repos/fedora-spotify.repo
-sudo dnf config-manager --add-repo=http://negativo17.org/repos/fedora-handbrake.repo
-
-# getting new info of this new repo
-sudo dnf update -y 
-
-# installing
-sudo dnf install spotify-client -y
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
