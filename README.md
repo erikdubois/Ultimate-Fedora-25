@@ -57,8 +57,6 @@ The best of them
 	Inkscape
 	Plank
 	Screenfetch
-	Numix Icons
-	Google Chrome
 	...
 
 Beta picture

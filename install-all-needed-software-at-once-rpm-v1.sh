@@ -37,7 +37,7 @@ sudo dnf install variety -y
 #software from 'normal' repositories  dropbox hardinfo kazam slurm
 
 sudo dnf install -y catfish clementine curl dconf-editor  evolution focuswriter frei0r-plugins geary gimp gpick
-sudo dnf install -y glances gnome-tweak-tool gparted grsync inkscape  
+sudo dnf install -y glances gnome-tweak-tool gparted grsync inkscape mediawriter
 sudo dnf install -y openshot pinta plank radiotray screenruler screenfetch scrot shutter simplescreenrecorder synapse
 sudo dnf install -y terminator vlc vnstat   
 
