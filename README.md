@@ -25,7 +25,7 @@ Beta picture
 
 Fedora 25 stable version
 
-![Screenshots](http://imgur.com/a/2RTWv)
+![Screenshots](http://i.imgur.com/Hy8TRQD.png)
 
 
 
