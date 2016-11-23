@@ -2,6 +2,8 @@
 
 Installed Fedora 25 1.3 on 23/11/2016
 
+Some pictures are from the first beta version 1.1. After a successfull upgrade I did a clean install of fedora 25 anyway.
+
 Update your system.
 
 	sudo dnf update
@@ -20,7 +22,7 @@ Beta picture
 ![Screenshots](http://i.imgur.com/myZn07i.png)
 
 
-# Updated github - first beta version 1.1 now stable version
+
 
 
 Fedora 25 stable version
