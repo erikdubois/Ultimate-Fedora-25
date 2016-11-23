@@ -30,8 +30,6 @@ sh install-sublime-text-tarball-v1.sh
 ###############################################################################################
 
 # Downloading and installing latest variety
-sudo add-apt-repository ppa:peterlevi/ppa -y
-sudo apt-get update
 sudo dnf install variety -y
 
 ###############################################################################################

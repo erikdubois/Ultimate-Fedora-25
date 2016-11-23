@@ -1,6 +1,6 @@
 # Ultimate Fedora
 
-Installed Fedora 25 - beta 1.1 on 20/11/2016
+Installed Fedora 25 1.3 on 23/11/2016
 
 Update your system.
 
@@ -16,7 +16,18 @@ Installed screenfetch.
 
 	sudo dnf install screenfetch
 
+Beta picture
 ![Screenshots](http://i.imgur.com/myZn07i.png)
+
+
+# Updated github - first beta version 1.1 now stable version
+
+
+Fedora 25 stable version
+
+![Screenshots](http://imgur.com/a/2RTWv)
+
+
 
 
 #Kernel
@@ -48,7 +59,7 @@ The best of them
 	Google Chrome
 	...
 
-
+Beta picture
 ![Screenshots](http://i.imgur.com/yDvFT1i.png)
 
 
@@ -75,7 +86,7 @@ The most recent pictures can be found there.
 
 https://plus.google.com/u/0/collection/YFP-LB
 
-
+Beta picture
 ![Screenshots](http://i.imgur.com/M2rmNRk.png)
 
 
